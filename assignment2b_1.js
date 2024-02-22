@@ -1,5 +1,5 @@
 function translateText() {
-  const apiKey = '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';
+  const apiKey = 'YourAPIKey';
   const url = 'https://api.openai.com/v1/chat/completions';
 
   const textInput = document.getElementById('textInput').value;
